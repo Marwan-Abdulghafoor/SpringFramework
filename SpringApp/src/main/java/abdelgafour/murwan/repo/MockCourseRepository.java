@@ -2,8 +2,9 @@ package abdelgafour.murwan.repo;
 
 import abdelgafour.murwan.domain.Course;
 import abdelgafour.murwan.domain.Student;
-import org.framework.annotation.Profile;
-import org.framework.annotation.Service;
+import abdelgafour.murwan.framework.annotation.Profile;
+import abdelgafour.murwan.framework.annotation.Service;
+
 
 import java.util.ArrayList;
 import java.util.HashMap;

@@ -1,7 +1,8 @@
 package abdelgafour.murwan.services;
 
-import org.framework.annotation.Scheduled;
-import org.framework.annotation.Service;
+
+import abdelgafour.murwan.framework.annotation.Scheduled;
+import abdelgafour.murwan.framework.annotation.Service;
 
 @Service
 public class ReminderService {

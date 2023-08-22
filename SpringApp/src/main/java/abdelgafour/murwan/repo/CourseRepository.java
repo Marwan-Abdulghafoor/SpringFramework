@@ -2,10 +2,8 @@ package abdelgafour.murwan.repo;
 
 import abdelgafour.murwan.domain.Course;
 import abdelgafour.murwan.domain.Student;
-import org.framework.annotation.Autowired;
-import org.framework.annotation.Profile;
-import org.framework.annotation.Service;
-import org.framework.context.ApplicationEventPublisher;
+import abdelgafour.murwan.framework.annotation.Profile;
+import abdelgafour.murwan.framework.annotation.Service;
 
 import java.util.ArrayList;
 import java.util.HashMap;

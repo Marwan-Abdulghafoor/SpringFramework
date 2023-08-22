@@ -2,11 +2,12 @@ package abdelgafour.murwan;
 
 import abdelgafour.murwan.domain.Course;
 import abdelgafour.murwan.domain.Student;
+import abdelgafour.murwan.framework.annotation.Autowired;
+import abdelgafour.murwan.framework.annotation.Value;
+import abdelgafour.murwan.framework.context.SpringApp;
 import abdelgafour.murwan.services.CourseService;
 import abdelgafour.murwan.services.ReminderService;
-import org.framework.annotation.Autowired;
-import org.framework.annotation.Value;
-import org.framework.context.SpringApp;
+
 
 public class Main implements Runnable{
     @Autowired

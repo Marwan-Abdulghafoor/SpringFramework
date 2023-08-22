@@ -1,8 +1,9 @@
 package abdelgafour.murwan.events;
 
 import abdelgafour.murwan.domain.Course;
-import org.framework.annotation.EventListener;
-import org.framework.annotation.Service;
+import abdelgafour.murwan.framework.annotation.EventListener;
+import abdelgafour.murwan.framework.annotation.Service;
+
 
 @Service
 public class CourseEventListener {

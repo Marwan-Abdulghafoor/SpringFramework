@@ -16,8 +16,8 @@
 
     <dependencies>
         <dependency>
-            <groupId>org.example</groupId>
-            <artifactId>ExamPrep</artifactId>
+            <groupId>abdelgafour.murwan</groupId>
+            <artifactId>SpringFramework</artifactId>
             <version>1.0-SNAPSHOT</version>
         </dependency>
     </dependencies>
